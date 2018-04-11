@@ -24,6 +24,6 @@
 
 **Math**
 
-- [  ] Statistics 110 강의 수강 및 이해(added on April 11)
+- [ ] Statistics 110 강의 수강 및 이해(added on April 11)
 
 2 / 6 Complete!
