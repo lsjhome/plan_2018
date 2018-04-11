@@ -6,7 +6,7 @@
 - [ ] 3분 딥러닝 책 정리
 - [ ] 김성훈 교수님 수업 수강 및 정리
 - [ ] CS 231n or CS 224n 강의 중 하나 이상 정리
-- [ ] Udemy Pytorch 강의 정리(Udemy 강의, GCP 자격증)
+- [ ] Udemy Pytorch 강의 정리(added on April 11)
 
 **Data Engineering**
 
@@ -21,3 +21,5 @@
 
 - [x] 자료구조 / 알고리즘 책 간단한 책 한권 이상 완독
 - [ ] 다른 자료구조 / 알고리즘 얇은 책 한권 더 완독(added on April 11)
+
+2 / 6 Complete!
