@@ -22,4 +22,8 @@
 - [x] 자료구조 / 알고리즘 책 간단한 책 한권 이상 완독
 - [ ] 다른 자료구조 / 알고리즘 얇은 책 한권 더 완독(added on April 11)
 
+**Math**
+
+- [] Statistics 110 강의 수강 및 이해(added on April 11)
+
 2 / 6 Complete!
