@@ -1,6 +1,7 @@
 # 2018 Resolution for becoming a real data scientist 
 
 **Data Science**
+
 [ ] 밑바닥 딥러닝 책 정리
 [ ] 3분 딥러닝 책 정리
 [X] 김성훈 교수님 수업 수강 및 정리
